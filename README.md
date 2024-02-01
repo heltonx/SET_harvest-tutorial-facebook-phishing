@@ -32,3 +32,26 @@ https://cdpn.io/sanketbodke/fullpage/abyyPNa?anon=true&view=
 
 8 ) The Credential Harvest will start listening at your port 80. Open the browser, insert your IP and test. At the listening terminal, the credentials must appear.
 
+
+=================================================
+Using with Ngrok
+
+=================================================
+
+1) Do the previous instructions and open your ngrok account on browser
+
+2 ) Click on Endpoints
+
+3 ) Click on + Start a Tunnel
+
+4 ) If ngrok is not installed, click on Need to install ngrok first?
+
+5 ) Select the option install via Apt, and run the commands as showed.
+
+6 ) The last command will start the tunnel (ngrok http 80)
+
+7 ) get the link at the field forwarding
+will be something like:
+https://as23-2804-d51-xxxx-a000-bbbb-f3c6-23dc-qqqq.ngrok-free.app
+
+8 ) If the aplication Credential Harvest is still running, this link will be the one you will use to test harvest credentials
