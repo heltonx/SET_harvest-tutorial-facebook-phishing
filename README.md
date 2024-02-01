@@ -39,7 +39,7 @@ Using with Ngrok
 
 =================================================
 
-1) Do the previous instructions and open your ngrok account on browser
+1 ) Do the previous instructions and open your ngrok account on browser
 
 2 ) Click on Endpoints
 
