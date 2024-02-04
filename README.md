@@ -56,3 +56,29 @@ will be something like:
 https://as23-2804-d51-xxxx-a000-bbbb-f3c6-23dc-qqqq.ngrok-free.app
 
 8 ) If the aplication Credential Harvest is still running, this link will be the one you will use to test harvest credentials
+
+=================================================
+
+Using with link shorteners, to mask ngrok alien link
+
+=================================================
+
+
+1 ) Do the previous ngrok instructions
+
+2 ) login in bit.ly
+
+3 ) Create new (link)
+
+4 ) In Destination Field, paste the original link
+
+5 ) In Custom back-half (optional), insert the custom link
+
+6 ) Click on Create
+
+----------
+
+Alternativelly, do the same in tiny url, but no need account
+
+https://tinyurl.com/app
+
