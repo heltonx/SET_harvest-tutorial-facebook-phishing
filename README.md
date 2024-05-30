@@ -1,5 +1,5 @@
 # SET_harvest-tutorial-facebook-phishing
-Practial guide on how to use SET to do a facebook phishing page
+Practial guide on how to use SET to do a facebook phishing page.
 
 1 ) Open the link of code pen and goto frame of login, right click > This Frame > Open Frame in new Tab (if the browser is Firefox).
 
